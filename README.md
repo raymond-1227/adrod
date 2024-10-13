@@ -1,2 +1,2 @@
 # adrod
-adrod Installer by @flandolf!
+adrod Installer by flandolf!
